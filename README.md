@@ -34,24 +34,24 @@ A biblioteca **[Scikit-Learn](https://scikit-learn.org/)** (ou `sklearn`) fornec
 O banco de dados escolhido foi o de biometria de gambás. Como citado anteriormente, eu tentei trabalhar com o banco de dados de terremotos primeiro, mas por fim acabei optando por este.
 
 ## 🧗 Desafios e interpretação dos resultados do ao longo projeto
-# 📓 Ambiente Jupyer
+### 📓 Ambiente Jupyer
 Não estava acostumado a utilizar os notebooks do ambiente Jupyter. Confesso que demorei um pouco até acostumar, mas uma vez que consegui me adaptar entendi porquê foi recomendado para o projeto e pretendo continuar utilizando,
 é muito prático, útil e integra todas as ferramentas e tecnologias utilizadas.
 
-# 🐍 Python
+### 🐍 Python
 Embora eu já conhecesse um pouco da linguagem, fazia tempo que não a utilizava então precisei relembrar um pouco.
 
-# 🧰 Outras ferramentas e bibliotecas
+### 🧰 Outras ferramentas e bibliotecas
 Os outros recursos eu consegui aprender a utilizar melhor colocando o conhecimento em prática.
 
-# 🧹 Análise, limpeza e tipagem de dados
+### 🧹 Análise, limpeza e tipagem de dados
 Para mim, esta foi a parte mais tranquila. Eu já entendia bem o conceito de preenchimento de valores nulos, conversão de tipos e lidar com *outliers*, então não senti muitos problemas.
 
-# 🔍 Análise exploratória
+### 🔍 Análise exploratória
 Esta para mim foi a parte que eu subestimei e acabou se tornando a mais importante do projeto. Representações gráficas facilitam muito a visualização de padrões e correlações no banco de dados. Com essas informações,
 podemos tomar decisões melhores para o melhor modelo preditivo a ser utilizado, portanto, esta parte acaba sendo o coração do projeto que define o rumo que ele irá tomar.
 
-# ⚙️ Machine Learning: Implementação dos modelos preditivos
+### ⚙️ Machine Learning: Implementação dos modelos preditivos
 E foi aqui que eu tive as maiores dificuldades. Após testar alguns modelos preditivos, eu estava obtendendo c*oeficientes de determinação* baixos e tendo problemas com *overfitting*. Analisando melhor as possibilidades que 
 eu tinha com as correlações do meu banco de dados, o melhor caminho parecia ser a implementação do modelo de *Regressão Ridge*. Mesmo assim, as métricas de de *coeficiente de determinação* e *RMSE* não foram tão satisfatórias,
 e ainda tendo um gap bem considerável entre treinos e testes (evidência de *overfitting*). Acredito que pelo banco de dados ser relativamente pequeno (apenas 104 gambás), não seja possível conseguir métricas muito mais elevadas
