@@ -12,11 +12,11 @@ gambás, cuja análise geral está em [analiseGeral](analiseGeral.ipynb), este �
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-**🧮 Manipulação e Matemática:**
 **💻 Linguagem e Ambiente:**
 * **[Python 3](https://www.python.org/):** Linguagem de programação base utilizada para toda a lógica e estruturação do projeto.
 * **[Jupyter Notebook](https://jupyter.org/):** Ambiente de desenvolvimento interativo utilizado para a criação dos blocos de código, visualização instantânea dos gráficos e documentação narrativa da análise.
 
+**🧮 Manipulação e Matemática:**
 * **[Pandas](https://pandas.pydata.org/):** Utilizado para leitura, limpeza e estruturação do banco de dados em formato tabular (DataFrames).
 * **[NumPy](https://numpy.org/):** Empregado para cálculos matemáticos avançados e operações com matrizes (como o cálculo do RMSE).
 
