@@ -8,7 +8,7 @@ fazer uma análise dos resultados e importância das variáveis. Com este projet
 ## 📁 Composição do repositório
 O repositório em geral é bem simples. O arquivo [notaEstudos](notaEstudos.ipynb) é um notebook simples o qual eu utilizei para fazer algumas anotações iniciais. O arquivo [analiseReserva](analiseReserva.ipynb)
 foi uma primeira tentativa de lidar com o banco de dados de terremotos. Mas como eu desisti desse banco de dados por não conseguir bons resultados logo no começo, mudei para o banco de dados de biometrias de
-gambás, cuja análise geral está em [analiseGeral](analiseGeral.pynb), este é o arquivo principal deste repositório.
+gambás, cuja análise geral está em [analiseGeral](analiseGeral.ipynb), este é o arquivo principal deste repositório.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
