@@ -1,5 +1,5 @@
 # 🤖 PROJETO DE MACHINE LEARNING
-Este repositório pertence ao projeto de Ciência de Dados e Aprendizado de Máquina da trilha de aprendizados do NIAD.
+Este é um repositório ao projeto de Ciência de Dados e Aprendizado de Máquina proposto na trilha de aprendizados do NIAD.
 
 ## 🎯 Objetivo do projeto
 O projeto consistia em escolher entre três banco de dados, fazer limpezas desses dados, análise com representações visuais, então escolher o melhor modelo preditivo de acordo com as análises e
