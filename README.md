@@ -30,7 +30,7 @@ A biblioteca **[Scikit-Learn](https://scikit-learn.org/)** (ou `sklearn`) fornec
 * **Preparação:** `train_test_split` para realizar a separação segura entre os dados de Treino e Teste.
 * **Métricas de Avaliação:** `mean_squared_error` e `r2_score` para mensurar, respectivamente, a margem de erro absoluta em centímetros e a porcentagem de acerto do modelo.
 
-## 🦘 Escolha do banco de dados
+## 🦨 Escolha do banco de dados
 O banco de dados escolhido foi o de biometria de gambás. Como citado anteriormente, eu tentei trabalhar com o banco de dados de terremotos primeiro, mas por fim acabei optando por este.
 
 ## 🧗 Desafios e interpretação dos resultados do ao longo projeto
