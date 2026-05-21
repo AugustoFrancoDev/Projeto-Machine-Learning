@@ -1,4 +1,4 @@
-# 🤖 PROJETO DE MACHINE LEARNING
+# 🤖 Pojeto de Análise, Limpeza e Modelagem Preditiva
 Este é um repositório ao projeto de Ciência de Dados e Aprendizado de Máquina proposto na trilha de aprendizados do NIAD.
 
 ## 🎯 Objetivo do projeto
